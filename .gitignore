@@ -1,0 +1,9 @@
+.idea/
+.classpath/
+.project/
+*.iml
+.vscode/
+# Ignore class files
+out/
+# Ignore MacOS file
+.DS_Store
